@@ -9,8 +9,8 @@
 
 BEGIN {
 	FS = "↓"
-	titleColumnWidth = 30
-	tagColumnWidth = 60
+	titleColumnWidth = 10
+	tagColumnWidth = 20
 }
 
 {	
